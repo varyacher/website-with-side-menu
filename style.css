@@ -162,9 +162,9 @@ button:hover{
 #footer{
 	width: 100%;
 	text-align: right;
-	padding: 40px;
+	padding: 58px 0;
 	background-color: #f1f1f1;
 }
 #footer p{
-	padding-right: 60px;
+	margin: 20px;
 }
